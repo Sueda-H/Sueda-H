@@ -1,16 +1,14 @@
-### Hi there 👋
+<img src="git-ban.jpg"/>
+## Hi there 👋
+My name is Sueda Herdem, I'm currently in my second year of my study as a software developer at bit academy. I learn how to program with different languages and techniques.
 
-<!--
-**Sueda-H/Sueda-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##💻I'm currently learning
+- JavaScript
+- Python
+- PHP
+- HTML/CSS
+- Visualisation in Pyhton
+- Working with SQL and MySQL on databases
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##📫  How to reach me:
+[<img src="gm.jpg" style="width:100px;"/>](mailto:admin@cloudhadoop.com) [<img src="linkedin.jpg" style="width:100px;"/>](www.linkedin.com/in/sueda-herdem)
