@@ -12,7 +12,7 @@ My name is Sueda Herdem, I'm currently in my second year of my study as a softwa
 - Working with SQL and MySQL on databases
 <br/>
 ##📫  How to reach me:
-<br/>
+
 [<img src="gm.jpg" style="width:100px;"/>](mailto:admin@cloudhadoop.com) 
 <br/>
 [<img src="linkedin.jpg" style="width:100px;"/>](www.linkedin.com/in/sueda-herdem)
