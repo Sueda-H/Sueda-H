@@ -1,5 +1,5 @@
 <img src="git-ban.jpg"/>
-## Hi there 👋
+##Hi there 👋
 My name is Sueda Herdem, I'm currently in my second year of my study as a software developer at bit academy. I learn how to program with different languages and techniques.
 
 ##💻I'm currently learning
