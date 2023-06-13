@@ -13,4 +13,4 @@
 
 [<img src="gm.jpg" style="width:100px;"/>](mailto:admin@cloudhadoop.com) 
 
-[<img src="linkedin.jpg" style="width:100px;"/>]([www.linkedin.com/in/sueda-herdem](https://www.linkedin.com/in/sueda-herdem/)https://www.linkedin.com/in/sueda-herdem/)
+[<img src="linkedin.jpg" style="width:100px;"/>](www.linkedin.com/in/sueda-herdem.com)
