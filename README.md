@@ -1,4 +1,4 @@
-<img src="bit_banner.png"/>
+<img src="bitbanner-git.png"/>
 <h2>Hi there 👋<h2>
 <h3>As an 18-year-old student, I am passionate about software
 development and have a strong desire to learn and expand my
