@@ -12,6 +12,14 @@ to enhance my skills in the latest technologies.<h3>
 - Data Visualisation: Power BI <br/>
 - Database Management: SQL <br/>
 - Data Analysis: Pandas <br/>
+
+<h3>Skills/Currently learning</h3>
+-Backend Development: JavaScript, PHP, Python
+-Frontend Development: HTML, CSS, Bootstrap
+-Agile Methodology: Scrum
+-Data Visualisation: Power BI
+-Database Management: SQL
+-Data Analysis: Pandas
 <h2>📫  How to reach me:<h2>
 
 [<img src="gm.jpg" style="width:100px;"/>](mailto:admin@cloudhadoop.com) 
