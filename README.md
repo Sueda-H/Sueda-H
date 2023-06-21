@@ -1,10 +1,10 @@
 <img src="bitbanner-git.png"/>
 <h2>Hi there! <h2>
-<h3>As an 18-year-old student, I am passionate about software
+<h4>As an 18-year-old student, I am passionate about software
 development and have a strong desire to learn and expand my
 knowledge. Actively studying back and front end, I am excited to
 contribute to real-world software projects and embrace opportunities
-to enhance my skills in the latest technologies.<h3>
+to enhance my skills in the latest technologies.<h4>
 <h2>Skills:<h2/>
 - Backend Development: JavaScript, PHP, Python <br/>
 - Frontend Development: HTML, CSS, Bootstrap <br/>
