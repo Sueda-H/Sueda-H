@@ -5,7 +5,7 @@ development and have a strong desire to learn and expand my
 knowledge. Actively studying back and front end, I am excited to
 contribute to real-world software projects and embrace opportunities
 to enhance my skills in the latest technologies.<h4>
-<h2>Skills:<h2/>
+<h4>Skills:<h4/>
 - Backend Development: JavaScript, PHP, Python <br/>
 - Frontend Development: HTML, CSS, Bootstrap <br/>
 - Agile Methodology: Scrum <br/>
