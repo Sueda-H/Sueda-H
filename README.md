@@ -13,7 +13,7 @@ to enhance my skills in the latest technologies.<h4>
 - Database Management: SQL <br/>
 - Data Analysis: Pandas <br/>
   
-<h2>📫  How to reach me:<h2>
+<h2>  How to reach me:<h2>
 
 [<img src="gm.jpg" style="width:100px;"/>](mailto:admin@cloudhadoop.com) 
 
