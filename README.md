@@ -6,8 +6,8 @@ knowledge. Actively studying back and front end, I am excited to
 contribute to real-world software projects and embrace opportunities
 to enhance my skills in the latest technologies.<h4>
 <h4>Skills:<h4/>
-- Backend Development: JavaScript, PHP, Python <br/>
-- Frontend Development: HTML, CSS, Bootstrap <br/>
+- Backend Development: PHP, Python <br/>
+- Frontend Development: HTML, CSS, Bootstrap, JavaScript <br/>
 - Agile Methodology: Scrum <br/>
 - Data Visualisation: Power BI <br/>
 - Database Management: SQL <br/>
