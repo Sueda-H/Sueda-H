@@ -17,4 +17,4 @@ to enhance my skills in the latest technologies.<h4>
 
 [<img src="gm.jpg" style="width:100px;"/>](mailto:admin@cloudhadoop.com) 
 
-[<img src="linkedin.jpg" style="width:100px;"/>](www.linkedin.com/in/sueda-herdem.com)
+[<img src="linkedin.jpg" style="width:100px;"/>](www.linkedin.com/in/sueda-herdem)
