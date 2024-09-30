@@ -1,10 +1,6 @@
 <img src="bitbanner-git.png"/>
 <h2>Hi there! <h2>
-<h4>As an 20-year-old student, I am passionate about software
-development and have a strong desire to learn and expand my
-knowledge. Actively studying back and front end, I am excited to
-contribute to real-world software projects and embrace opportunities
-to enhance my skills in the latest technologies.<h4>
+<h4>I’m a 20-year-old student passionate about software development, with experience in both front-end and back-end technologies. However, my main interest lies in data and analytics. I enjoy working with data, building dashboards, creating visualizations, and uncovering meaningful insights. I’m always looking to learn more and explore new concepts, tools, and techniques to expand my skills further. I’m eager to contribute my abilities to real-world projects and continue growing as a developer and data enthusiast.<h4>
 <h4>Skills:<h4/>
 - Backend Development: PHP, Python <br/>
 - Frontend Development: HTML, CSS, Bootstrap, JavaScript <br/>
