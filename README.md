@@ -1,6 +1,6 @@
 <img src="bitbanner-git.png"/>
 <h2>Hi there! <h2>
-<h4>As an 19-year-old student, I am passionate about software
+<h4>As an 20-year-old student, I am passionate about software
 development and have a strong desire to learn and expand my
 knowledge. Actively studying back and front end, I am excited to
 contribute to real-world software projects and embrace opportunities
