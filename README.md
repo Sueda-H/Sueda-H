@@ -5,9 +5,11 @@
 - Backend Development: PHP, Python <br/>
 - Frontend Development: HTML, CSS, Bootstrap, JavaScript <br/>
 - Agile Methodology: Scrum <br/>
-- Data Visualisation: Power BI <br/>
+- Data Visualization: Power BI, Spotfire, Looker Studio <br/>
 - Database Management: SQL <br/>
-- Data Analysis: Pandas <br/>
+- Data Analysis: Pandas, GA/GA4, BigQuery <br/>
+- Cloud Platforms: Azure, BlueLagoon <br/>
+
   
 <h4>  How to reach me:<h4>
 
