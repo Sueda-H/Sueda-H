@@ -13,6 +13,6 @@
   
 <h4>  How to reach me:<h4>
 
-[<img src="gm.jpg" style="width:100px;"/>](mailto:admin@cloudhadoop.com) 
+[<img src="gm.jpg" style="width:100px;"/>](mailto:suedaherdem@gmail.com) 
 
 [<img src="linkedin.jpg" style="width:100px;"/>](www.linkedin.com/in/sueda-herdem)
